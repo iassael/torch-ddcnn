@@ -4,6 +4,17 @@
 
 Data-efficient learning in continuous state-action spaces using high-dimensional observations remains a elusive challenge in developing fully autonomous systems. An instance of this challenge is the pixels to torques problem, which identifies key elements of an autonomous agent: autonomous thinking and decision making using sensor measurements only, learning from mistakes, and applying past experiences to novel situations. In this research, we introduce a deep dynamical convolutional model, able to learn complex non-linear dynamics and do long-term predictions. Compared to state-of-the-art reinforcement learning methods for continuous state and action space problems, our approach is solid and efficient as it is model-based, is scalable to high-dimensional state spaces, learns quickly, and is a major step towards fully autonomous learning from pixels to torques.
 
+## Bibtex
+
+	@techreport{assael2015pixels,
+	  title={From Pixels to Torques: Policy Learning using Deep Dynamical Convolutional Networks},
+	  author={Assael, John-Alexander M and Deisenroth, Marc Peter},
+	  institution={Imperial College London},
+	  year={2015},
+	  month={9},
+	  note={\url{http://www.doc.ic.ac.uk/~mpd37/theses/DeepConvDynModels_JohnAssael2015.pdf}}
+	}
+
 ## License
 
 Copyright (C) 2015 John-Alexander M. Assael, Marc P. Deisenroth
