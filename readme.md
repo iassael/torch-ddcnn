@@ -6,13 +6,11 @@ Data-efficient learning in continuous state-action spaces using high-dimensional
 
 ## Bibtex
 
-	@techreport{assael2015pixels,
-	  title={From Pixels to Torques: Policy Learning using Deep Dynamical Convolutional Networks},
-	  author={Assael, John-Alexander M and Deisenroth, Marc Peter},
-	  institution={Imperial College London},
-	  year={2015},
-	  month={9},
-	  note={\url{http://www.doc.ic.ac.uk/~mpd37/theses/DeepConvDynModels_JohnAssael2015.pdf}}
+	@article{assael2015data,
+	  title={Data-Efficient Learning of Feedback Policies from Image Pixels using Deep Dynamical Models},
+	  author={Assael, J.-A. M and Wahlstr{\"o}m, N. and Sch{\"o}n, T. B. and Deisenroth, M. P.},
+	  journal={NIPS Deep Reinforcement Learning Workshop},
+	  year={2015}
 	}
 
 ## License
